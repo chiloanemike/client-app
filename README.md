@@ -17,4 +17,4 @@ This Spring Boot application is a RESTful API designed for client management. De
   
 # API Root Endpoint
 ```
-https://localhost:8080/
+https://localhost:8080/clients
